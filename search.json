@@ -1,0 +1,415 @@
+[
+  {
+    "objectID": "vina.html",
+    "href": "vina.html",
+    "title": "Viña del Mar",
+    "section": "",
+    "text": "Viña del Mar funciona como un caso empírico para estudiar cómo organización, infraestructura, trabajo y políticas de reciclaje se articulan territorialmente.\nLa versión TRAMA de esta página reemplazará el enfoque exclusivamente operativo por una lectura de prácticas, actores, relaciones e infraestructura."
+  },
+  {
+    "objectID": "puente-alto.html",
+    "href": "puente-alto.html",
+    "title": "Puente Alto",
+    "section": "",
+    "text": "Articulación municipal en curso · septiembre 2026"
+  },
+  {
+    "objectID": "puente-alto.html#de-propuesta-a-mesa-de-trabajo",
+    "href": "puente-alto.html#de-propuesta-a-mesa-de-trabajo",
+    "title": "Puente Alto",
+    "section": "De propuesta a mesa de trabajo",
+    "text": "De propuesta a mesa de trabajo\nEl proyecto llegó inicialmente al municipio bajo el nombre PET CLOUD como una propuesta de piloto de trazabilidad digital del reciclaje. La respuesta municipal abrió una etapa distinta: se solicitó avanzar hacia la formalización de un convenio y coordinar una reunión con equipos de SECPLA, DIMAO, Puente Mujer y Fomento Productivo.\nEsto permite reformular el piloto como un laboratorio socio-técnico interdisciplinario."
+  },
+  {
+    "objectID": "puente-alto.html#por-qué-puente-alto",
+    "href": "puente-alto.html#por-qué-puente-alto",
+    "title": "Puente Alto",
+    "section": "¿Por qué Puente Alto?",
+    "text": "¿Por qué Puente Alto?\nEl interés no se limita a la trazabilidad de pesajes. La propuesta permite estudiar cómo una infraestructura de información puede conectar:\n\ngestión ambiental municipal;\nplanificación y proyectos;\nfomento productivo;\npolíticas de género;\ntrabajo de recicladores/as de base;\nevidencia para reportabilidad y futuras postulaciones.\n\nLa propia Municipalidad dispone de iniciativas de datos abiertos y herramientas de fomento productivo que incorporan variables territoriales y de género, un contexto institucional relevante para explorar una infraestructura de información situada. citeturn0search0turn0search1turn0search2"
+  },
+  {
+    "objectID": "puente-alto.html#propuesta-de-piloto",
+    "href": "puente-alto.html#propuesta-de-piloto",
+    "title": "Puente Alto",
+    "section": "Propuesta de piloto",
+    "text": "Propuesta de piloto\n\nFase 1 — Mesa y diagnóstico\nDefinición conjunta de participantes, puntos de implementación, prácticas a observar, datos necesarios y reglas de gobernanza.\n\n\nFase 2 — Co-diseño\nAdaptación del registro digital a las condiciones reales de trabajo y definición de indicadores técnicos, territoriales y sociales.\n\n\nFase 3 — Implementación\nRegistro en terreno, acompañamiento, sincronización y visualización de información.\n\n\nFase 4 — Análisis y devolución\nContraste entre información digital y prácticas observadas; devolución a participantes; identificación de mejoras y condiciones de escalamiento."
+  },
+  {
+    "objectID": "puente-alto.html#el-componente-de-género",
+    "href": "puente-alto.html#el-componente-de-género",
+    "title": "Puente Alto",
+    "section": "El componente de género",
+    "text": "El componente de género\nEl enfoque de género no debe convertirse en una variable agregada al final del sistema. La pregunta es cómo las condiciones sociales y de cuidado, los recursos disponibles y las formas de reconocimiento afectan la posibilidad de participar en procesos de formalización y digitalización.\nCualquier indicador individual deberá definirse con la mesa de trabajo, bajo consentimiento informado y con reglas explícitas sobre acceso y uso."
+  },
+  {
+    "objectID": "puente-alto.html#relación-con-la-ley-rep",
+    "href": "puente-alto.html#relación-con-la-ley-rep",
+    "title": "Puente Alto",
+    "section": "Relación con la Ley REP",
+    "text": "Relación con la Ley REP\nLa Ley 20.920 establece el marco chileno para la gestión de residuos, la Responsabilidad Extendida del Productor y el fomento al reciclaje. Entre sus instrumentos se encuentra la REP y mecanismos de apoyo a la gestión local y a la inclusión de recicladores de base. citeturn0search5turn0search8turn0search13\nTRAMA no pretende sustituir los sistemas oficiales de reporte ni atribuirse certificaciones que correspondan a otras instituciones. El piloto buscará producir evidencia digital estructurada y auditable que pueda evaluarse por las contrapartes municipales y los actores pertinentes."
+  },
+  {
+    "objectID": "puente-alto.html#la-pregunta-de-investigación-en-puente-alto",
+    "href": "puente-alto.html#la-pregunta-de-investigación-en-puente-alto",
+    "title": "Puente Alto",
+    "section": "La pregunta de investigación en Puente Alto",
+    "text": "La pregunta de investigación en Puente Alto\n\n¿Qué cambia en la coordinación del reciclaje municipal cuando los datos se producen desde las prácticas territoriales y luego regresan a los actores como infraestructura para decidir?"
+  },
+  {
+    "objectID": "puente-alto.html#resultado-esperado",
+    "href": "puente-alto.html#resultado-esperado",
+    "title": "Puente Alto",
+    "section": "Resultado esperado",
+    "text": "Resultado esperado\nNo solamente un dashboard.\nEl objetivo es producir:\n\nuna línea base del sistema observado;\nun modelo de datos situado;\nun prototipo validado en terreno;\nevidencia sobre efectos organizacionales y de coordinación;\nrecomendaciones para escalamiento;\nuna metodología replicable en otros territorios."
+  },
+  {
+    "objectID": "puente-alto.html#próximo-hito",
+    "href": "puente-alto.html#próximo-hito",
+    "title": "Puente Alto",
+    "section": "Próximo hito",
+    "text": "Próximo hito\nReunión interdisciplinaria — 23 de septiembre de 2026, mañana.\nParticipantes previstos: SECPLA · DIMAO · Puente Mujer · Fomento Productivo · equipo TRAMA.\n\nLa reunión no es solamente una presentación de software. Es el primer espacio para acordar qué problema territorial se investigará, qué prácticas se observarán, qué información es legítimo producir y qué condiciones debe cumplir la infraestructura."
+  },
+  {
+    "objectID": "protocolo.html",
+    "href": "protocolo.html",
+    "title": "Protocolo",
+    "section": "",
+    "text": "TRAMA propone un protocolo flexible para que el desarrollo técnico y la investigación avancen en paralelo.\n\n\nMapear actores, recorridos, prácticas, infraestructuras y puntos de decisión.\n\n\n\nRecoger conocimiento de trabajadores, organizaciones y equipos institucionales antes de fijar el modelo de datos.\n\n\n\nDefinir qué vale la pena registrar, quién necesita esa información y qué riesgos debe evitarse.\n\n\n\nImplementar una versión mínima, reversible y evaluable.\n\n\n\nObservar el uso real, las fricciones, los efectos no previstos y la calidad de los datos.\n\n\n\nCompartir resultados con quienes producen la información y ajustar el sistema.\n\n\n\nSolo después de validar la práctica, evaluar interoperabilidad, institucionalización y crecimiento."
+  },
+  {
+    "objectID": "protocolo.html#protocolo-de-investigación-aplicada",
+    "href": "protocolo.html#protocolo-de-investigación-aplicada",
+    "title": "Protocolo",
+    "section": "",
+    "text": "TRAMA propone un protocolo flexible para que el desarrollo técnico y la investigación avancen en paralelo.\n\n\nMapear actores, recorridos, prácticas, infraestructuras y puntos de decisión.\n\n\n\nRecoger conocimiento de trabajadores, organizaciones y equipos institucionales antes de fijar el modelo de datos.\n\n\n\nDefinir qué vale la pena registrar, quién necesita esa información y qué riesgos debe evitarse.\n\n\n\nImplementar una versión mínima, reversible y evaluable.\n\n\n\nObservar el uso real, las fricciones, los efectos no previstos y la calidad de los datos.\n\n\n\nCompartir resultados con quienes producen la información y ajustar el sistema.\n\n\n\nSolo después de validar la práctica, evaluar interoperabilidad, institucionalización y crecimiento."
+  },
+  {
+    "objectID": "protocolo.html#gobernanza-de-datos",
+    "href": "protocolo.html#gobernanza-de-datos",
+    "title": "Protocolo",
+    "section": "Gobernanza de datos",
+    "text": "Gobernanza de datos\nCada piloto deberá contar con un acuerdo mínimo sobre:\n\n\n\nDimensión\nPregunta\n\n\n\n\nPropósito\n¿Para qué se produce el dato?\n\n\nAcceso\n¿Quién puede verlo?\n\n\nUso\n¿Qué usos están permitidos?\n\n\nRetención\n¿Cuánto tiempo se conserva?\n\n\nConsentimiento\n¿Qué información requiere autorización?\n\n\nDevolución\n¿Qué reciben quienes producen los datos?\n\n\nSeguridad\n¿Cómo se protegen los registros?"
+  },
+  {
+    "objectID": "protocolo.html#principio-de-no-vigilancia",
+    "href": "protocolo.html#principio-de-no-vigilancia",
+    "title": "Protocolo",
+    "section": "Principio de no vigilancia",
+    "text": "Principio de no vigilancia\nLa digitalización de una actividad laboral no debe transformarse automáticamente en un mecanismo de control sobre la persona trabajadora.\nEl piloto deberá separar, en la medida que corresponda, los datos necesarios para trazabilidad de aquellos que podrían utilizarse para evaluar o sancionar individualmente a una persona."
+  },
+  {
+    "objectID": "protocolo.html#evidencia-y-aprendizaje",
+    "href": "protocolo.html#evidencia-y-aprendizaje",
+    "title": "Protocolo",
+    "section": "Evidencia y aprendizaje",
+    "text": "Evidencia y aprendizaje\nLa evaluación combinará:\n\nregistros digitales;\nobservación de terreno;\nentrevistas o conversaciones semiestructuradas;\ntalleres de devolución;\nanálisis territorial;\nmétricas de uso y calidad de datos.\n\nAsí, el dato digital se interpreta dentro de la práctica que le dio origen."
+  },
+  {
+    "objectID": "marco.html",
+    "href": "marco.html",
+    "title": "Investigación",
+    "section": "",
+    "text": "TRAMA parte de una premisa: la actividad económica no puede comprenderse únicamente mediante precios, volúmenes y transacciones.\nEn un territorio, un material adquiere valor a través de una secuencia de prácticas:\nconsumo → descarte → reconocimiento → recolección → clasificación → transporte → pesaje → comercialización → valorización\nCada transición involucra conocimientos, normas, relaciones, infraestructuras y posiciones sociales.\n\n\nLa lectura de Pierre Bourdieu permite incorporar al análisis dimensiones que una base de datos convencional tiende a dejar fuera:\n\nhabitus: disposiciones incorporadas que orientan la acción;\ncapital económico: recursos y capacidad de intercambio;\ncapital social: redes y relaciones movilizables;\ncapital cultural: conocimientos y competencias;\ncapital simbólico: reconocimiento y legitimidad;\nposiciones: lugares diferenciados dentro del campo;\ninstituciones: reglas y dispositivos que organizan las prácticas;\nterritorio: espacio social donde estas relaciones se concretan.\n\nLa pregunta deja de ser únicamente “¿cuántos kilos se recuperaron?” y pasa a incluir “¿quién los recuperó, cómo, con qué conocimientos, mediante qué relaciones y bajo qué condiciones?”"
+  },
+  {
+    "objectID": "marco.html#una-economía-de-las-prácticas-sociales",
+    "href": "marco.html#una-economía-de-las-prácticas-sociales",
+    "title": "Investigación",
+    "section": "",
+    "text": "TRAMA parte de una premisa: la actividad económica no puede comprenderse únicamente mediante precios, volúmenes y transacciones.\nEn un territorio, un material adquiere valor a través de una secuencia de prácticas:\nconsumo → descarte → reconocimiento → recolección → clasificación → transporte → pesaje → comercialización → valorización\nCada transición involucra conocimientos, normas, relaciones, infraestructuras y posiciones sociales.\n\n\nLa lectura de Pierre Bourdieu permite incorporar al análisis dimensiones que una base de datos convencional tiende a dejar fuera:\n\nhabitus: disposiciones incorporadas que orientan la acción;\ncapital económico: recursos y capacidad de intercambio;\ncapital social: redes y relaciones movilizables;\ncapital cultural: conocimientos y competencias;\ncapital simbólico: reconocimiento y legitimidad;\nposiciones: lugares diferenciados dentro del campo;\ninstituciones: reglas y dispositivos que organizan las prácticas;\nterritorio: espacio social donde estas relaciones se concretan.\n\nLa pregunta deja de ser únicamente “¿cuántos kilos se recuperaron?” y pasa a incluir “¿quién los recuperó, cómo, con qué conocimientos, mediante qué relaciones y bajo qué condiciones?”"
+  },
+  {
+    "objectID": "marco.html#simondon-la-técnica-como-relación",
+    "href": "marco.html#simondon-la-técnica-como-relación",
+    "title": "Investigación",
+    "section": "Simondon: la técnica como relación",
+    "text": "Simondon: la técnica como relación\nGilbert Simondon permite pensar la tecnología más allá de la idea de herramienta neutral. Un sistema técnico se desarrolla en relación con seres humanos, objetos, entornos y condiciones de operación.\nPara TRAMA esto implica una regla de diseño: la infraestructura debe aprender del medio asociado en el que será utilizada.\nPor eso el diseño contempla, entre otras condiciones:\n\nfuncionamiento offline;\ninterfaces simples;\nregistro desde el lugar de trabajo;\nadaptación a prácticas existentes;\nmecanismos de devolución de información;\ngobernanza sobre quién puede acceder y para qué."
+  },
+  {
+    "objectID": "marco.html#la-pregunta-socio-técnica",
+    "href": "marco.html#la-pregunta-socio-técnica",
+    "title": "Investigación",
+    "section": "La pregunta socio-técnica",
+    "text": "La pregunta socio-técnica\nBourdieu ayuda a preguntar:\n\n¿Cómo están estructuradas socialmente las prácticas económicas?\n\nSimondon ayuda a preguntar:\n\n¿Cómo se relacionan las personas, los objetos y los sistemas técnicos?\n\nTRAMA articula ambas preguntas:\n\n¿Cómo puede una infraestructura digital hacer visibles y articular esas relaciones sin descontextualizarlas?"
+  },
+  {
+    "objectID": "marco.html#principios-de-datos",
+    "href": "marco.html#principios-de-datos",
+    "title": "Investigación",
+    "section": "Principios de datos",
+    "text": "Principios de datos\n\nEl dato no existe separado de la práctica que lo produce.\nLos actores son productores de conocimiento, no solamente usuarios.\nEl territorio no es únicamente una coordenada GPS: es un espacio social.\nEl valor económico no se reduce al precio del material.\nLa tecnología debe comprender las prácticas antes de pretender sustituirlas.\nLa información debe generar retorno para quienes participan en su producción."
+  },
+  {
+    "objectID": "marco.html#ética-y-gobernanza",
+    "href": "marco.html#ética-y-gobernanza",
+    "title": "Investigación",
+    "section": "Ética y gobernanza",
+    "text": "Ética y gobernanza\nLa infraestructura debe evitar convertirse en un mecanismo de vigilancia laboral. El diseño de cada piloto deberá definir:\n\nconsentimiento y participación informada;\nminimización de datos personales;\nroles y permisos de acceso;\nusos permitidos y prohibidos;\nmecanismos de anonimización cuando corresponda;\ndevolución de resultados a participantes;\nseparación entre evaluación del sistema y sanción individual;\nprotocolos específicos para uso académico o investigación.\n\n\nLa trazabilidad no es un fin en sí mismo. El objetivo es construir evidencia útil sin transformar la infraestructura de información en una nueva forma de extracción o control sobre quienes producen los datos."
+  },
+  {
+    "objectID": "euskadi.html",
+    "href": "euskadi.html",
+    "title": "Euskadi",
+    "section": "",
+    "text": "La línea Euskadi busca explorar qué ocurre cuando una metodología desarrollada desde experiencias latinoamericanas se encuentra con otros arreglos institucionales y ecosistemas de economía circular.\nEl objetivo no es trasladar mecánicamente una plataforma, sino comparar prácticas, instituciones, infraestructuras y modelos de gobernanza."
+  },
+  {
+    "objectID": "arquitectura.html",
+    "href": "arquitectura.html",
+    "title": "Arquitectura",
+    "section": "",
+    "text": "TRAMA se organiza en cinco capas. La tecnología es importante, pero no ocupa el primer lugar.\n\n\nPrácticasactividad situada\n\n\nRegistrocaptura en terreno\n\n\nModelocontexto + relaciones\n\n\nVisualizaciónpatrones territoriales\n\n\nGobernanzadecisión + devolución"
+  },
+  {
+    "objectID": "arquitectura.html#arquitectura-por-capas",
+    "href": "arquitectura.html#arquitectura-por-capas",
+    "title": "Arquitectura",
+    "section": "",
+    "text": "TRAMA se organiza en cinco capas. La tecnología es importante, pero no ocupa el primer lugar.\n\n\nPrácticasactividad situada\n\n\nRegistrocaptura en terreno\n\n\nModelocontexto + relaciones\n\n\nVisualizaciónpatrones territoriales\n\n\nGobernanzadecisión + devolución"
+  },
+  {
+    "objectID": "arquitectura.html#capa-territorial",
+    "href": "arquitectura.html#capa-territorial",
+    "title": "Arquitectura",
+    "section": "1. Capa territorial",
+    "text": "1. Capa territorial\nAquí ocurre la actividad: personas, materiales, rutas, puntos de recepción, cooperativas, instituciones y mercados.\nLa primera tarea no es digitalizar. Es comprender."
+  },
+  {
+    "objectID": "arquitectura.html#capa-de-registro",
+    "href": "arquitectura.html#capa-de-registro",
+    "title": "Arquitectura",
+    "section": "2. Capa de registro",
+    "text": "2. Capa de registro\nEl prototipo contempla una aplicación web progresiva (PWA) capaz de registrar desde un teléfono:\n\npeso;\nmaterial;\nfecha y hora;\nubicación, cuando corresponda;\nactor o punto de registro;\nevidencia opcional;\nobservaciones contextuales.\n\nEl funcionamiento offline permite continuar registrando cuando la conectividad es limitada y sincronizar posteriormente."
+  },
+  {
+    "objectID": "arquitectura.html#capa-de-datos-situados",
+    "href": "arquitectura.html#capa-de-datos-situados",
+    "title": "Arquitectura",
+    "section": "3. Capa de datos situados",
+    "text": "3. Capa de datos situados\nEl modelo debe superar el esquema:\nmaterial → peso → transacción\npara incorporar:\nactor + práctica + material + lugar + tiempo + relación + institución + evidencia\nEsto permite analizar no solamente cantidades, sino configuraciones territoriales."
+  },
+  {
+    "objectID": "arquitectura.html#capa-de-visualización",
+    "href": "arquitectura.html#capa-de-visualización",
+    "title": "Arquitectura",
+    "section": "4. Capa de visualización",
+    "text": "4. Capa de visualización\nLos registros pueden convertirse en:\n\nmapas;\nseries temporales;\nrecorridos;\nindicadores;\nperfiles de actividad;\nreportes;\nvistas diferenciadas según cada actor."
+  },
+  {
+    "objectID": "arquitectura.html#capa-de-gobernanza",
+    "href": "arquitectura.html#capa-de-gobernanza",
+    "title": "Arquitectura",
+    "section": "5. Capa de gobernanza",
+    "text": "5. Capa de gobernanza\nLa información debe volver al territorio. El dashboard no es solamente un panel de control municipal: es un dispositivo para coordinar, discutir y aprender."
+  },
+  {
+    "objectID": "arquitectura.html#mvp-técnico",
+    "href": "arquitectura.html#mvp-técnico",
+    "title": "Arquitectura",
+    "section": "MVP técnico",
+    "text": "MVP técnico\nEl prototipo actual utiliza una PWA y una arquitectura de backend basada en Firebase/Firestore. En el MVP se pueden establecer reglas de backend que impidan la modificación o eliminación de determinados registros una vez ingresados.\n\nNota de precisión: esto se describe como una política de no modificación/no borrado dentro del backend, no como una garantía criptográfica de inmutabilidad absoluta.\n\nLa arquitectura técnica queda deliberadamente abierta a evolución. Si el piloto demuestra necesidades de mayor auditabilidad, interoperabilidad o soberanía de datos, se evaluarán alternativas."
+  },
+  {
+    "objectID": "arquitectura.html#de-la-infraestructura-a-la-investigación",
+    "href": "arquitectura.html#de-la-infraestructura-a-la-investigación",
+    "title": "Arquitectura",
+    "section": "De la infraestructura a la investigación",
+    "text": "De la infraestructura a la investigación\nCada componente técnico deberá responder a una pregunta de investigación:\n\n\n\n\n\n\n\nComponente\nPregunta\n\n\n\n\nRegistro móvil\n¿Qué información puede producirse sin aumentar la carga de trabajo?\n\n\nGeorreferencia\n¿Qué patrones territoriales aparecen cuando la actividad se localiza?\n\n\nModelo relacional\n¿Qué relaciones desaparecen cuando solo registramos toneladas?\n\n\nDashboard\n¿Quién puede usar la información y para qué decisiones?\n\n\nReportes\n¿Qué formas de evidencia reconocen las instituciones?"
+  },
+  {
+    "objectID": "arquitectura.html#estado",
+    "href": "arquitectura.html#estado",
+    "title": "Arquitectura",
+    "section": "Estado",
+    "text": "Estado\nMVP en evolución\nLa infraestructura se desarrollará en paralelo con la investigación de campo. No se busca cerrar el sistema antes de conocer las prácticas que debe representar."
+  },
+  {
+    "objectID": "colaboracion.html",
+    "href": "colaboracion.html",
+    "title": "Colaboración",
+    "section": "",
+    "text": "Para comprender necesidades de información, coordinación, planificación y gestión ambiental.\n\n\n\nPara diseñar la infraestructura desde el conocimiento de quienes realizan las prácticas materiales.\n\n\n\nPara desarrollar estudios comparativos, evaluación de impacto y metodologías de investigación aplicada.\n\n\n\nPara acompañar pilotos, transferencia, financiamiento y escalamiento.\n\n\n\nPara explorar interoperabilidad, evidencia y trazabilidad sin perder la dimensión territorial."
+  },
+  {
+    "objectID": "colaboracion.html#con-quién-trabajamos",
+    "href": "colaboracion.html#con-quién-trabajamos",
+    "title": "Colaboración",
+    "section": "",
+    "text": "Para comprender necesidades de información, coordinación, planificación y gestión ambiental.\n\n\n\nPara diseñar la infraestructura desde el conocimiento de quienes realizan las prácticas materiales.\n\n\n\nPara desarrollar estudios comparativos, evaluación de impacto y metodologías de investigación aplicada.\n\n\n\nPara acompañar pilotos, transferencia, financiamiento y escalamiento.\n\n\n\nPara explorar interoperabilidad, evidencia y trazabilidad sin perder la dimensión territorial."
+  },
+  {
+    "objectID": "colaboracion.html#qué-podemos-construir-juntos",
+    "href": "colaboracion.html#qué-podemos-construir-juntos",
+    "title": "Colaboración",
+    "section": "Qué podemos construir juntos",
+    "text": "Qué podemos construir juntos\n\ndiagnósticos territoriales;\nmapas de actores y prácticas;\nmodelos de datos;\nprototipos digitales;\npilotos municipales;\nestudios comparativos;\nmetodologías de gobernanza de datos;\ninformes para planificación y formulación de proyectos."
+  },
+  {
+    "objectID": "colaboracion.html#estado-del-proyecto",
+    "href": "colaboracion.html#estado-del-proyecto",
+    "title": "Colaboración",
+    "section": "Estado del proyecto",
+    "text": "Estado del proyecto\n2026 · transición de MVP a investigación aplicada\nEl antecedente PET CLOUD aporta el aprendizaje técnico inicial. TRAMA constituye la nueva arquitectura conceptual y metodológica del proyecto."
+  },
+  {
+    "objectID": "colaboracion.html#estado-del-proyecto-1",
+    "href": "colaboracion.html#estado-del-proyecto-1",
+    "title": "Colaboración",
+    "section": "Estado del proyecto",
+    "text": "Estado del proyecto\n2026 · transición de MVP a investigación aplicada\nEl antecedente PET CLOUD aporta el aprendizaje técnico inicial. TRAMA constituye la nueva arquitectura conceptual y metodológica del proyecto."
+  },
+  {
+    "objectID": "colaboracion.html#equipo",
+    "href": "colaboracion.html#equipo",
+    "title": "Colaboración",
+    "section": "Equipo",
+    "text": "Equipo\nÁngel Muñoz\nLicenciado en Sociología, Universidad Alberto Hurtado\nMartín Labbe\nSociólogo · Universidad Alberto Hurtado\nNicolás Madariaga\nSociología · Universidad Alberto Hurtado\nNicolás Ayarza\nIngeniero en Informática · DUOC UC"
+  },
+  {
+    "objectID": "colaboracion.html#contacto",
+    "href": "colaboracion.html#contacto",
+    "title": "Colaboración",
+    "section": "Contacto",
+    "text": "Contacto\n✉ Envíanos un correo\n\nBuscamos territorios donde la pregunta sea real. TRAMA se construye mediante colaboración con quienes conocen y sostienen los sistemas materiales en terreno."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TRAMA",
+    "section": "",
+    "text": "Investigación aplicada · Economía circular · Tecnología · Territorio\n\n\nTRAMA\n\n\n\nLa economía circular no ocurre solamente en los materiales. Ocurre en las prácticas que permiten recolectarlos, clasificarlos, intercambiarlos, valorizarlos y reconocerlos.\n\n\nTRAMA desarrolla herramientas para observar esas prácticas, convertir conocimiento situado en información útil y fortalecer la capacidad de los territorios para gobernar sus propios flujos materiales.\n\n\nExplorar el proyecto Ver la infraestructura"
+  },
+  {
+    "objectID": "index.html#del-residuo-al-territorio",
+    "href": "index.html#del-residuo-al-territorio",
+    "title": "TRAMA",
+    "section": "Del residuo al territorio",
+    "text": "Del residuo al territorio\nDurante años, la digitalización del reciclaje ha tendido a representar una cadena simple:\n\n\nMaterialqué circula\n\n\nPrácticacómo se recupera\n\n\nRelaciónquiénes participan\n\n\nDato situadoqué queda registrado\n\n\nGobernanzaqué decisiones permite\n\n\nEl punto de partida de TRAMA es distinto: el dato no existe separado de la práctica que lo produce.\n\nUna pregunta guía\n¿Cómo pueden las infraestructuras digitales contribuir a transformar prácticas económicas situadas sin descontextualizarlas?"
+  },
+  {
+    "objectID": "index.html#qué-hace-trama",
+    "href": "index.html#qué-hace-trama",
+    "title": "TRAMA",
+    "section": "¿Qué hace TRAMA?",
+    "text": "¿Qué hace TRAMA?\n\n\n\n\nObservar\n\n\nReconstruimos actores, prácticas, infraestructuras, relaciones y recorridos materiales.\n\n\n\n\n\nRegistrar\n\n\nDiseñamos herramientas digitales para producir evidencia desde el lugar donde ocurre la actividad.\n\n\n\n\n\nVisualizar\n\n\nConvertimos registros dispersos en información territorial útil para quienes participan en el sistema.\n\n\n\n\n\nTransformar\n\n\nUsamos la información para abrir ciclos de aprendizaje, coordinación y decisión."
+  },
+  {
+    "objectID": "index.html#un-proyecto-que-crece-desde-el-territorio",
+    "href": "index.html#un-proyecto-que-crece-desde-el-territorio",
+    "title": "TRAMA",
+    "section": "Un proyecto que crece desde el territorio",
+    "text": "Un proyecto que crece desde el territorio\nTRAMA se encuentra en transición desde un primer prototipo de trazabilidad digital del reciclaje hacia una infraestructura de investigación aplicada. El antecedente técnico fue PET CLOUD; TRAMA amplía su pregunta: no solo cómo registrar un peso, sino cómo comprender y fortalecer las prácticas económicas y materiales que hacen posible la economía circular.\n\nPiloto municipal en articulación\n\nPuente Alto\n\n\nLa Municipalidad de Puente Alto ha propuesto avanzar hacia una reunión interdisciplinaria con equipos de SECPLA, DIMAO, Puente Mujer y Fomento, y ha señalado la necesidad de formalizar un convenio para el proyecto piloto.\n\n\nVer el caso Puente Alto →"
+  },
+  {
+    "objectID": "index.html#el-principio-de-diseño",
+    "href": "index.html#el-principio-de-diseño",
+    "title": "TRAMA",
+    "section": "El principio de diseño",
+    "text": "El principio de diseño\n\nPrimero observa. Después modela. Luego interviene.\n\nLa tecnología no reemplaza automáticamente el conocimiento de quienes sostienen una actividad. TRAMA busca construir la infraestructura con los actores del territorio, de modo que el sistema técnico sea una extensión de las prácticas y no una capa externa impuesta sobre ellas."
+  },
+  {
+    "objectID": "index.html#territorios-en-investigación",
+    "href": "index.html#territorios-en-investigación",
+    "title": "TRAMA",
+    "section": "Territorios en investigación",
+    "text": "Territorios en investigación\n\nChile\n\n\nEuskadi\n\n\nRío de Janeiro\n\n\nEconomía circular\n\n\nRecicladores de base\n\n\nGobernanza territorial\n\nLa comparación territorial permite preguntar qué cambia cuando una misma infraestructura se encuentra con distintos sistemas de actores, normas, capacidades municipales, mercados y formas de organización.\nExplorar territorios"
+  },
+  {
+    "objectID": "pac.html",
+    "href": "pac.html",
+    "title": "Pedro Aguirre Cerda",
+    "section": "",
+    "text": "Pedro Aguirre Cerda se mantiene como territorio de contraste para estudiar cómo cambian las condiciones de implementación según escala, infraestructura y organización local.\nLos datos específicos del territorio se incorporarán nuevamente solo después de verificar sus fuentes y fecha de vigencia."
+  },
+  {
+    "objectID": "proyecto.html",
+    "href": "proyecto.html",
+    "title": "El proyecto",
+    "section": "",
+    "text": "Los sistemas de economía circular producen grandes cantidades de información, pero esa información suele aparecer fragmentada: registros administrativos, pesajes, planillas, fotografías, recorridos, certificados, relatos de trabajadores y datos municipales.\nTRAMA propone estudiar qué ocurre cuando esos elementos se articulan dentro de una infraestructura común de información territorial.\n\nLos flujos materiales son inseparables de las prácticas sociales que los producen, movilizan y valorizan."
+  },
+  {
+    "objectID": "proyecto.html#planteamiento",
+    "href": "proyecto.html#planteamiento",
+    "title": "El proyecto",
+    "section": "",
+    "text": "Los sistemas de economía circular producen grandes cantidades de información, pero esa información suele aparecer fragmentada: registros administrativos, pesajes, planillas, fotografías, recorridos, certificados, relatos de trabajadores y datos municipales.\nTRAMA propone estudiar qué ocurre cuando esos elementos se articulan dentro de una infraestructura común de información territorial.\n\nLos flujos materiales son inseparables de las prácticas sociales que los producen, movilizan y valorizan."
+  },
+  {
+    "objectID": "proyecto.html#hipótesis-de-trabajo",
+    "href": "proyecto.html#hipótesis-de-trabajo",
+    "title": "El proyecto",
+    "section": "Hipótesis de trabajo",
+    "text": "Hipótesis de trabajo\n\nLas infraestructuras digitales de información pueden contribuir a transformar la gobernanza de la economía circular cuando no se limitan a registrar flujos materiales, sino que incorporan las prácticas sociales, conocimientos situados y relaciones territoriales mediante las cuales dichos flujos adquieren valor económico y social."
+  },
+  {
+    "objectID": "proyecto.html#de-pet-cloud-a-trama",
+    "href": "proyecto.html#de-pet-cloud-a-trama",
+    "title": "El proyecto",
+    "section": "De PET CLOUD a TRAMA",
+    "text": "De PET CLOUD a TRAMA\nEl primer prototipo, PET CLOUD, nació como una herramienta para registrar pesajes georreferenciados y apoyar la trazabilidad municipal asociada a la Ley REP.\nTRAMA conserva ese aprendizaje técnico, pero cambia el centro de gravedad del proyecto:\n\n\n\n\n\n\n\nAntes\nAhora\n\n\n\n\nTrazabilidad del residuo\nTrazabilidad socio-material\n\n\nPeso y material\nPrácticas, actores, material y contexto\n\n\nDashboard municipal\nInfraestructura territorial de información\n\n\nReportabilidad\nAprendizaje y gobernanza\n\n\nTecnología como solución\nTecnología como objeto de investigación y mediación\n\n\nPiloto de software\nLaboratorio territorial"
+  },
+  {
+    "objectID": "proyecto.html#objetivo-general",
+    "href": "proyecto.html#objetivo-general",
+    "title": "El proyecto",
+    "section": "Objetivo general",
+    "text": "Objetivo general\nDiseñar y evaluar una infraestructura socio-técnica capaz de registrar, visualizar y analizar prácticas económicas y materiales situadas en territorios de economía circular, fortaleciendo la coordinación entre trabajadores, organizaciones, municipios e instituciones."
+  },
+  {
+    "objectID": "proyecto.html#objetivos-específicos",
+    "href": "proyecto.html#objetivos-específicos",
+    "title": "El proyecto",
+    "section": "Objetivos específicos",
+    "text": "Objetivos específicos\n\nCaracterizar actores, prácticas, infraestructuras y relaciones que configuran los circuitos locales de valorización.\nCo-diseñar un modelo de datos que represente esas prácticas sin reducirlas al flujo material.\nDesarrollar un prototipo digital de registro y visualización territorial.\nImplementar pilotos en contextos municipales concretos.\nAnalizar los efectos organizacionales, económicos y de gobernanza producidos por la infraestructura.\nConstruir una metodología transferible entre territorios, manteniendo la especificidad local."
+  },
+  {
+    "objectID": "proyecto.html#unidades-de-observación",
+    "href": "proyecto.html#unidades-de-observación",
+    "title": "El proyecto",
+    "section": "Unidades de observación",
+    "text": "Unidades de observación\n\nActores: recicladores/as, cooperativas, municipios, intermediarios, organizaciones sociales, sistemas de gestión y otros participantes.\nPrácticas: recolección, clasificación, pesaje, almacenamiento, transporte, comercialización, coordinación y cuidado.\nMateriales: tipo, volumen, calidad, destino y recorrido.\nInfraestructuras: puntos limpios, rutas, equipamientos, conectividad y espacios de trabajo.\nRelaciones: colaboración, intercambio, dependencia, reconocimiento y coordinación.\nInstituciones: normas, programas, procedimientos y mecanismos de formalización.\nTerritorio: localización, proximidades, centralidades y condiciones sociales que afectan la práctica."
+  },
+  {
+    "objectID": "proyecto.html#el-piloto-como-laboratorio",
+    "href": "proyecto.html#el-piloto-como-laboratorio",
+    "title": "El proyecto",
+    "section": "El piloto como laboratorio",
+    "text": "El piloto como laboratorio\nEl piloto no se entiende solamente como una prueba técnica. Es una instancia de investigación aplicada:\ndiagnóstico → co-diseño → prototipo → implementación → observación → devolución → iteración\nEl resultado esperado no es únicamente un software funcionando, sino conocimiento sobre qué tipo de infraestructura permite hacer visibles, coordinar y transformar prácticas que ya existen en el territorio."
+  },
+  {
+    "objectID": "territorios.html",
+    "href": "territorios.html",
+    "title": "Territorios",
+    "section": "",
+    "text": "La economía circular no tiene una única forma territorial. Cambian las organizaciones, las instituciones, los mercados, las infraestructuras, los niveles de formalización y las relaciones entre actores.\nPor eso TRAMA trabaja con una lógica comparativa.\n\n\n\n\n\n\n\nTerritorio\nFunción dentro del proyecto\n\n\n\n\nPuente Alto\nCaso prioritario de articulación municipal y piloto aplicado\n\n\nViña del Mar\nCaso de aprendizaje sobre reciclaje, organización y territorio\n\n\nPedro Aguirre Cerda\nTerritorio potencial para contrastar escala y gobernanza\n\n\nEuskadi\nContexto de transferencia y comparación institucional\n\n\nRío de Janeiro\nReferente comparativo latinoamericano"
+  },
+  {
+    "objectID": "territorios.html#una-infraestructura-varios-mundos-sociales",
+    "href": "territorios.html#una-infraestructura-varios-mundos-sociales",
+    "title": "Territorios",
+    "section": "",
+    "text": "La economía circular no tiene una única forma territorial. Cambian las organizaciones, las instituciones, los mercados, las infraestructuras, los niveles de formalización y las relaciones entre actores.\nPor eso TRAMA trabaja con una lógica comparativa.\n\n\n\n\n\n\n\nTerritorio\nFunción dentro del proyecto\n\n\n\n\nPuente Alto\nCaso prioritario de articulación municipal y piloto aplicado\n\n\nViña del Mar\nCaso de aprendizaje sobre reciclaje, organización y territorio\n\n\nPedro Aguirre Cerda\nTerritorio potencial para contrastar escala y gobernanza\n\n\nEuskadi\nContexto de transferencia y comparación institucional\n\n\nRío de Janeiro\nReferente comparativo latinoamericano"
+  },
+  {
+    "objectID": "territorios.html#matriz-comparativa",
+    "href": "territorios.html#matriz-comparativa",
+    "title": "Territorios",
+    "section": "Matriz comparativa",
+    "text": "Matriz comparativa\nLa comparación observará, entre otros aspectos:\n\norganización del reciclaje;\npapel de los recicladores de base;\ninfraestructura disponible;\nformas de digitalización;\nmecanismos de trazabilidad;\nrelación municipio–trabajadores;\nformas de valorización económica;\nproducción y circulación de datos;\ncapital social y redes;\ndispositivos de gobernanza."
+  },
+  {
+    "objectID": "territorios.html#puente-alto-caso-prioritario",
+    "href": "territorios.html#puente-alto-caso-prioritario",
+    "title": "Territorios",
+    "section": "Puente Alto: caso prioritario",
+    "text": "Puente Alto: caso prioritario\nLa respuesta municipal recibida en septiembre de 2026 abre una oportunidad concreta para pasar del prototipo a una investigación aplicada con contraparte institucional.\nLa propuesta considera una mesa interdisciplinaria y la formalización de un convenio antes del piloto. La reunión prevista incorpora equipos de SECPLA, DIMAO, Puente Mujer y Fomento Productivo.\nLa estructura institucional resulta especialmente interesante para TRAMA porque permite estudiar simultáneamente las dimensiones ambiental, de planificación, productiva y de género.\nAbrir caso Puente Alto →"
+  },
+  {
+    "objectID": "territorios.html#una-regla-metodológica",
+    "href": "territorios.html#una-regla-metodológica",
+    "title": "Territorios",
+    "section": "Una regla metodológica",
+    "text": "Una regla metodológica\nNo buscamos demostrar que todos los territorios necesitan la misma plataforma.\nBuscamos identificar qué infraestructura de información puede emerger cuando cada territorio participa en el diseño de su propio sistema."
+  }
+]
