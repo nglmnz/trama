@@ -1,0 +1,42 @@
+---
+title: "Arquitectura"
+subtitle: "Documento vivo — versión MVP"
+---
+
+## Visión general
+
+```{=html}
+<iframe src="flujo.html" width="100%" height="420" style="border:none;border-radius:14px;"></iframe>
+```
+
+## Componentes
+
+::: {.bloque}
+**PWA de registro (frontend operario).** Usabilidad simplificada para pesaje en ruta: peso, material, foto opcional, geolocalización automática. Persistencia local (IndexedDB) con sincronización asíncrona al recuperar señal.
+:::
+
+::: {.bloque}
+**Motor de datos (Firebase / Firestore).** NoSQL asíncrono en la nube. La inmutabilidad no es una promesa de interfaz: es una regla de servidor (`allow update, delete: if false`) sobre la colección de pesajes.
+:::
+
+::: {.bloque}
+**Dashboard de gobernanza (frontend municipal).** Visualización del cumplimiento de metas REP, mapa de puntos con estados <span class="estado-ok">Recolectado</span> / <span class="estado-pendiente">Pendiente</span>, y exportación de reportes.
+:::
+
+## Estado de implementación
+
+La inmutabilidad de los pesajes ya está implementada como regla de servidor, junto con autenticación, validación de datos en frontera (rangos de peso, identidad del registrador) y auditoría de origen por usuario.
+
+## Ruta de consolidación
+
+- **Sprint 0:** endurecimiento de seguridad — restricción de credenciales y corrección del modelo de roles.
+- **Sprint 1:** roles diferenciados (operario / cooperativa / municipio / vecino) mediante custom claims asignados desde el servidor.
+- **Sprint 2:** persistencia offline con sincronización asíncrona, y pruebas en zonas de sombra de cobertura (OE3).
+- **Sprint 3:** alertas vecinales, certificados y generación automática de Actas REP en PDF (OE5).
+
+## Decisiones abiertas
+
+- Estrategia de folios y firma de las Actas REP en PDF.
+- Costos de Firestore a escala municipal y plan de salida (lock-in).
+
+*Esta página se irá actualizando a medida que el diseño técnico se consolide.*

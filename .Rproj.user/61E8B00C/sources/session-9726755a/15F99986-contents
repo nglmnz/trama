@@ -1,0 +1,55 @@
+---
+title: "El proyecto"
+subtitle: "Gobernanza de datos urbanos para la Ley REP"
+---
+
+## Diagnóstico
+
+La entrada en vigencia de las metas de recolección de la Ley 20.920 impone a municipios y Sistemas de Gestión una presión regulatoria sin precedentes, sobre tres fallas estructurales:
+
+1. **La "caja negra" del reciclaje.** Las toneladas se reportan agregadas al final de la cadena; la eficiencia de puntos limpios y micro-rutas específicas es invisible.
+2. **El desfase analógico.** Minutas de papel y planillas Excel generan hasta 90 días de retraso en la consolidación de informes.
+3. **Vulnerabilidad del dato.** Los registros manuales carecen de garantías de no adulteración ante auditorías del MMA o la SMA.
+
+Siguiendo a Kitchin (2014) y Townsend (2013), una ciudad inteligente no se define por sensores de alto costo, sino por su capacidad de integrar flujos de información distribuidos. Y siguiendo a Simondon, PET CLOUD no reemplaza el conocimiento empírico del reciclador por un algoritmo ciego: amplifica su rol socioterritorial traduciendo su trabajo diario en datos certificados que la burocracia estatal reconoce.
+
+## Objetivo general
+
+Fortalecer la gobernanza, fiscalización y eficiencia de los sistemas de reciclaje municipal en Chile mediante un dispositivo tecnológico descentralizado, transparente y basado en el trabajo formalizado de cooperativas de recicladores de base.
+
+## Objetivos específicos y resultados esperados
+
+| Objetivo | Producto | Indicador de éxito |
+|---|---|---|
+| **OE1** Arquitectura de datos | Esquema NoSQL + `firestore.rules` que bloquean `update` y `delete` en pesajes | 100% de intentos de alteración bloqueados en backend |
+| **OE2** Interfaces MVP | PWA de pesaje + Dashboard con Maps API y Firebase Auth | Carga inicial < 3 s en gama baja |
+| **OE3** Resiliencia de datos | Sincronización asíncrona offline testeada | Cero pérdida de registros al recuperar señal |
+| **OE4** Pilotaje en terreno | Protocolo de piloto de 8 semanas | ≥ 1 carta de intención (municipio o cooperativa) |
+| **OE5** Automatización | Actas REP y Certificados PDF automáticos | Reporte mensual con folios en < 5 s |
+
+## Medición de impacto
+
+**Tasa de Eficiencia de Recolección Territorial (TERT).** Porcentaje de puntos que transitan de <span class="estado-pendiente">Pendiente</span> a <span class="estado-ok">Recolectado</span> sobre el total catastrado en el periodo:
+
+$$TERT = \frac{P_{recolectados}}{P_{totales}} \times 100$$
+
+**Mitigación de emisiones equivalentes.** CO₂e evitado al desviar PET de vertederos hacia valorización, usando la masa exacta e inmutable registrada en plataforma:
+
+$$CO_2e_{evitado} = M_{PET} \times F_{emisión}$$
+
+donde $M_{PET}$ es el acumulado neto verificable de kilogramos recuperados y $F_{emisión}$ el factor de ciclo de vida evitado por kg reciclado versus resina virgen.
+
+## Cronograma
+
+**Fase 1 (meses 1–2): Cierre técnico del MVP** — reglas de inmutabilidad, pruebas offline, validación académica.
+
+**Fase 2 (meses 3–4): Red de alianzas** — presentaciones a DIMAO y Secpla, talleres de codiseño con cooperativas, postulación a fondos.
+
+**Fase 3 (meses 5–6): Piloto y reportabilidad** — despliegue de 8 semanas, auditoría de inmutabilidad, primeras Actas REP, informe de resiliencia de datos.
+
+## Referencias
+
+- Kitchin, R. (2014). The Real-Time City? Big Data and Urbanism. *GeoJournal*, 79(1), 1–14.
+- Ministerio del Medio Ambiente de Chile (2016). *Ley 20.920 (Ley REP)*.
+- Simondon, G. (2007 [1958]). *El modo de existencia de los objetos técnicos*. Prometeo.
+- Townsend, A. M. (2013). *Smart Cities: Big Data, Civic Hackers, and the Quest for a New Utopia*. Norton.

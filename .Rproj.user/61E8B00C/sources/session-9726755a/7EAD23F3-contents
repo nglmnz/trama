@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "TRAMA"
+  description: "Infraestructura socio-técnica para territorios circulares"
+  site-url: https://nglmnz.github.io/trama
+  repo-url: https://github.com/nglmnz/trama
+  navbar:
+    background: "#0E3B43"
+    foreground: "#F5FBFA"
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: proyecto.qmd
+        text: El proyecto
+      - href: marco.qmd
+        text: Investigación
+      - href: arquitectura.qmd
+        text: Arquitectura
+      - text: Territorios
+        menu:
+          - href: territorios.qmd
+            text: Vista comparativa
+          - href: puente-alto.qmd
+            text: Puente Alto
+          - href: vina.qmd
+            text: Viña del Mar
+          - href: pac.qmd
+            text: Pedro Aguirre Cerda
+          - href: euskadi.qmd
+            text: Euskadi
+      - href: protocolo.qmd
+        text: Protocolo
+      - href: colaboracion.qmd
+        text: Colaboración
+    right:
+      - icon: github
+        href: https://github.com/nglmnz/trama
+  page-footer:
+    left: "TRAMA · 2026 · Investigación aplicada"
+    right: "Hecho con Quarto + GitHub Pages"
+
+format:
+  html:
+    theme:
+      - flatly
+      - custom.scss
+    toc: true
+    toc-title: "En esta página"
+    lang: es
+    mainfont: "Inter, system-ui, sans-serif"
+    smooth-scroll: true

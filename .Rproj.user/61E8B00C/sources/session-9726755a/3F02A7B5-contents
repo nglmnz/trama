@@ -1,0 +1,27 @@
+# TRAMA — Infraestructura socio-técnica para territorios circulares
+
+Sitio web en Quarto preparado para GitHub Pages.
+
+## Publicar en GitHub
+
+1. Crea un repositorio llamado `trama`.
+2. Copia estos archivos al repositorio.
+3. Ajusta en `_quarto.yml`:
+   - `site-url`
+   - `repo-url`
+   - enlaces de GitHub
+4. Publica con GitHub Pages usando Quarto.
+
+## Desarrollo local
+
+```bash
+quarto preview
+```
+
+## Render
+
+```bash
+quarto render
+```
+
+El proyecto reemplaza la identidad pública PET CLOUD por TRAMA, manteniendo PET CLOUD como antecedente técnico.
